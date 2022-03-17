@@ -1,5 +1,9 @@
-# **stats220**
-The purpose of this website is to show how  to create a meme with **R**. (and to achieve this assignment)
+# **stats220** (Assignment purpose!)
 
-## [This is the link(stop bring me error!!!!!!!!!!!)](https://jizzx6.github.io/stats220/)
+## Author: Yanjie Zhou
+
+The purpose of this website is to show how  to create a meme using **R**. 
+
+## [This is the link the web(stop bring me error!!!!!!!!!!!)](https://jizzx6.github.io/stats220/)
+ 
  
