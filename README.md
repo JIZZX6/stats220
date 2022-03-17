@@ -19,5 +19,5 @@ A bit spoil of my r work but I guess this is alright. Dang-dang-dang-----![]
 
 [This is the link to my repo(stop bring me error!!!!!!!!!!!)](https://jizzx6.github.io/stats220/)
 
-[This is the assignment page, let's do it](https://canvas.auckland.ac.nz/courses/75888/assignments/272595)
+[This is the assignment page. You get to try once this beautiful things](https://canvas.auckland.ac.nz/courses/75888/assignments/272595)
  
