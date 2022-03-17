@@ -1,2 +1,3 @@
 # stats220
-for assignment
+
+## ![] https://jizzx6.github.io/stats220/
