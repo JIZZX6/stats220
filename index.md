@@ -1,4 +1,4 @@
-!! Welcome to my index file!
+# Welcome to my index file!
 
 Actually I don't know what do I need to do here, ermmmm, right back...
 
@@ -15,11 +15,14 @@ for example, what the motivation was, and how my meme is new/original
 
 Let's do it!
 
+** There are two reasons induce me to create this meme: **
+
+1. I need to complete the assignment
+2. I really don't want bad teammates in game
 
 
 
-
-I was inspired by meme below (stored in repo)
+Owner inspired by meme below (stored in repo)
 
 ![the source](mqdefault.jpg)
 
