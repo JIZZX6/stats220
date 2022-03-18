@@ -1,7 +1,7 @@
 # Welcome to my index file!
 ```
 {
-backgroud = "green"
+background-color: blue;
   }
 ```
 <p>Actually I don't know what do I need to do here, ermmmm, right back...
