@@ -1,10 +1,8 @@
 # Welcome to my index file!
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+backgroud = "green"
+  }
 ```
 <p>Actually I don't know what do I need to do here, ermmmm, right back...
 </p>
