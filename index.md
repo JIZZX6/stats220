@@ -14,9 +14,10 @@ Let's do it!
 
 1. I need to complete the assignment
 2. I really don't want bad teammates in game
-
-
-
+ 
+<br>
+<br>
+ 
 Owner inspired by meme below (stored in repo)
 
 ![the source](mqdefault.jpg)
