@@ -1,9 +1,5 @@
 # Welcome to my index file!
-```
-{
-background-color: blue;
-  }
-```
+
 <p>Actually I don't know what do I need to do here, ermmmm, right back...
 </p>
 <br>
@@ -20,6 +16,7 @@ Let's do it!
 
 1. I need to complete the assignment
 2. I really don't want bad teammates in game
+3. (🥦 really tastes bad)
  
 <br>
 <br>
@@ -28,6 +25,6 @@ Owner inspired by meme below (stored in repo)
 
 ![the source](mqdefault.jpg)
 
-Cheers!
+My work is done! **Cheers!**
 
 ![Bibi--](https://media0.giphy.com/media/RJEBGVo2mrGxsujtAE/giphy.gif)
