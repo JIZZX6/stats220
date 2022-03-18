@@ -10,7 +10,7 @@ adaption of an existing meme format)</p>
 
 Let's do it!
 
-** There are two reasons why I create this meme: **
+**There are two reasons why I create this meme:**
 
 1. I need to complete the assignment
 2. I really don't want bad teammates in game
