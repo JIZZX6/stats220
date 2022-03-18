@@ -1,7 +1,15 @@
 # Welcome to my index file!
-
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 <p>Actually I don't know what do I need to do here, ermmmm, right back...
 </p>
+<br>
+
 (seconds)
 
 <p>OK, Here my index.md file needs contain information about the meme I created,
