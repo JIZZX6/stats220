@@ -1,17 +1,12 @@
 # Welcome to my index file!
 
 Actually I don't know what do I need to do here, ermmmm, right back...
-
-
-
+<br>
 (seconds)
-/n/n
 
 OK, Here my index.md file needs contain information about the meme I created, 
 for example, what the motivation was, and how my meme is new/original 
 (e.g. an adaption of an existing meme format)
-\n\n
-
 
 Let's do it!
 
