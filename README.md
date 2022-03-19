@@ -30,7 +30,7 @@
  A bit spoil of my r work but I guess this is alright. Dang-dang-dang-----![ui](huh.png)
 
 <br>
-At last wish you all the best with my cuteness teammates!  👻
+At the end, wish you all the best with my cuteness teammates!  👻
  
  ![ababaab](your_team.png) ![gif](https://media0.giphy.com/media/RJEBGVo2mrGxsujtAE/giphy.gif)
 And next is below is my code fence👇
