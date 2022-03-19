@@ -25,6 +25,8 @@ Owner inspired by meme below (stored in repo)
 
 ![the source](mqdefault.jpg)
 
+Want to know how to create amazing meme? See this👇
+
 ```r
 install.packages("magick")
 library(magick)
