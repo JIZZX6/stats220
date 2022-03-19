@@ -15,7 +15,9 @@
 
 <br>
 <br>
-[This is the link to my repo(plzz stop bring me error!!!!!!!!!!!)](https://jizzx6.github.io/stats220/)
+
+[This is the link to my repo](https://jizzx6.github.io/stats220/)
+
 <br>
 
 ### I gonna show you something!
@@ -24,6 +26,7 @@
 [And this is the assignment page. You got to try once this beautiful thing](https://canvas.auckland.ac.nz/courses/75888/assignments/272595)
 
 <br>
+
  A bit spoil of my r work but I guess this is alright. Dang-dang-dang-----![ui](huh.png)
 
 <br>
