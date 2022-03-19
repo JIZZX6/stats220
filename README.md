@@ -35,20 +35,21 @@ your_team <- image_read("http://5b0988e595225.cdn.sohucs.com/images/20190729/4d6
 
 
 god_team <- image_blank(width = 500, 
-                          height = 500, 
+                          height=250, 
                           color = "#000000") %>%
   image_annotate(text = "Team\nYou expected",
                  color = "#FFFFFF",
-                 size = 80,
+                 size = 65,
                  font = "Impact",
-                 gravity = "center")
+                 gravity = "center")%?%
+
 
 bad_team <- image_blank(width = 500, 
-                         height = 500, 
+                         height = 400, 
                          color = "#000000") %>%
   image_annotate(text = "Team\nYou Got",
                  color = "#FFFFFF",
-                 size = 80,
+                 size = 65,
                  font = "Impact",
                  gravity = "center")
 
