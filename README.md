@@ -26,14 +26,14 @@
 And next is [fenced code explaination](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks) (not quite sure why do we use this)
 ```r
 library(magick)
-
+#Import images from web
 ideal_team <- image_read("https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/11/Avengers-Age-of-Ultron-Group-Shot.jpg") %>%
   image_scale(500)
-
+#my team pic
 your_team <- image_read("http://5b0988e595225.cdn.sohucs.com/images/20190729/4d67b2a19de44fb78f628bc8b157b935.jpeg") %>%
   image_scale(500)
 
-
+#my team appendent
 god_team <- image_blank(width = 500, 
                           height=250, 
                           color = "#000000") %>%
@@ -43,7 +43,7 @@ god_team <- image_blank(width = 500,
                  font = "Impact",
                  gravity = "center")%?%
 
-
+# actual team
 bad_team <- image_blank(width = 500, 
                          height = 400, 
                          color = "#000000") %>%
@@ -58,7 +58,7 @@ first_row <- c(ideal_team, god_team) %>%
 
 second_row <- c(your_team, bad_team) %>%
   image_append()
-
+#combine whole works to a meme
 
 (final_one = c(first_row, second_row) %>%
   image_append(stack = TRUE))
