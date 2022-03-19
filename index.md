@@ -12,6 +12,10 @@ adaption of an existing meme format)</p>
 
 Let's do it!
 
+Dang---Dang----Dang
+
+![my_great_meme lost@ @](huh.png)
+
 **There are two reasons why I create this meme:**
 
 1. I need to complete the assignment
