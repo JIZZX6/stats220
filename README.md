@@ -24,7 +24,7 @@
 
 Want learn some **magic**? Come and visit 👉 [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 
-[And this is the assignment page. You got to try once this beautiful thing](https://canvas.auckland.ac.nz/courses/75888/assignments/272595)
+[And this is the assignment page.](https://canvas.auckland.ac.nz/courses/75888/assignments/272595) You got to try once this beautiful thing.
 
 <br>
 
