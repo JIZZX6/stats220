@@ -35,7 +35,10 @@ Ermmm, I don't know what else I can put...
 At the end, wish you all the best with my cuteness teammates!  👻
  
  ![ababaab](your_team.png) ![gif](https://media0.giphy.com/media/RJEBGVo2mrGxsujtAE/giphy.gif)
-And next is below is my code fence👇
+
+<br>
+
+Below is my code fence👇
 ```r
 install.packages("magick")
 library(magick)
