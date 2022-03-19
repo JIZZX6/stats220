@@ -22,6 +22,7 @@
 
 ### I gonna show you something!
 
+[ {magick} ](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 
 [And this is the assignment page. You got to try once this beautiful thing](https://canvas.auckland.ac.nz/courses/75888/assignments/272595)
 
@@ -35,6 +36,7 @@ At the end, wish you all the best with my cuteness teammates!  👻
  ![ababaab](your_team.png) ![gif](https://media0.giphy.com/media/RJEBGVo2mrGxsujtAE/giphy.gif)
 And next is below is my code fence👇
 ```r
+install.packages("magick")
 library(magick)
 #Import images from web
 ideal_team <- image_read("https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/11/Avengers-Age-of-Ultron-Group-Shot.jpg") %>%
