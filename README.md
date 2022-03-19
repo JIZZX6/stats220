@@ -22,7 +22,7 @@
 
 ### I gonna show you something!
 
-[ {magick} ](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
+[{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 
 [And this is the assignment page. You got to try once this beautiful thing](https://canvas.auckland.ac.nz/courses/75888/assignments/272595)
 
