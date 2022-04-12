@@ -87,3 +87,10 @@ second_row <- c(your_team, bad_team) %>%
 
 
 ```
+```{css}
+body {
+  color: #ffffff; 
+  background-color: #ff5470; 
+  padding: 10px
+}
+```
